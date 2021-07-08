@@ -1,9 +1,9 @@
 ## Justin Williams - Full-Stack Web Developer
 
-- 🏫 I finished the University of Richmond Coding Boot Camp in November 2020
-- 📚 Learning: Next.js and Data Structures
-- 🥅 2021 Goals: Find my first Junior Developer Position
-- ⚡ Fun facts: I am a professional violinist, a BMW car enthusiast and a Manchester United fan
+- Full-Stack Web Developer with over ten years of experience in primary and secondary education.
+- Learning: PHP and Data Structures
+- 2021 Goals: Find my first Junior Developer Position
+- Fun facts: I am a professional violinist, a BMW car enthusiast and a Manchester United fan
 
 ### Connect with me:
 
