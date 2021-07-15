@@ -30,7 +30,6 @@
 <br/>
 <br/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=justinwilliamsrva&show_icons=true&theme=nord)
 
 [website]: https://justinwdev.com
 [course]: http://vsCodeHero.com
