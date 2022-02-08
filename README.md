@@ -1,6 +1,6 @@
 ## Justin Williams - Full-Stack Web Developer
 
-- Full-Stack Web Developer working at Ameronix in Vuw and Laravel
+- Full-Stack Web Developer working at Guidance Residential
 - Learning: AWS, C#, .NET, Dart, Strapi, and advanced CSS animations
 - 2022 Goals: Build a Car Tracking App
 - Fun facts: I am a professional violinist, a BMW car enthusiast and a Manchester United fan
