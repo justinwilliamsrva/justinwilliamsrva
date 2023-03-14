@@ -1,4 +1,4 @@
-## Justin Williams - Full-Stack Web Developer
+## Justin Williams - Web Developer
 
 - Full-Stack Web Developer working at Guidance Residential
 - Fun facts: I am a professional violinist, a BMW car enthusiast and a Manchester United fan
